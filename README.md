@@ -25,7 +25,7 @@ The core topics addressed by the course will be:
 CSC 339 (Programming Languages) OR Programming experience (Instructor Permission Required)
 
 ## Required Text
-There is no required text for the course. Class slides will be available for download. Suggested textbooks are: 1) Building Machine Learning Systems with Python (Richert and Coelho), 2) Data Science from Stratch (Joel Grus)
+There is no required text for the course. Class slides will be available for download. Suggested textbooks are: 1) Building Machine Learning Systems with Python (Richert and Coelho), 2) Data Science from Scratch (Joel Grus)
 
 ## Course Overview
 This course is highly interactive and based on the problem-based learning philosophy; students are expected to make use of said technologies to design highly scalable systems that can process and analyze Big Data for a variety of scientific, social, and environmental challenges.
