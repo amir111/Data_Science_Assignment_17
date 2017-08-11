@@ -136,6 +136,10 @@ Class slides and ipython notebooks will be available [here](https://github.com/U
 ## Teams and Projects
 
 
+## Attendance Policy
+Attendance is required for all the class meetings and tests. If you will be absent for an exam due to circumstances beyond control, let me know in advance so that we can arrange a make-up test. Students who miss an exam without informing me prior to the exam will receive a 0 on that exam.
+
+
 ## Special Needs and/or Disabilities
 Students with disabilities should have documentation from the Office of Accessibility Resources & Services ([Link](https://ods.uncg.edu/)). This documentation should be provided to the instructor for review. In the case of major provisions such as separate testing environment or test-readers, the student must make arrangements with Office of Accessibility Resources & Services so that suitable accommodations can be provided.
 
