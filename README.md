@@ -1,6 +1,6 @@
 # Data Science
 
-* **Course:** CSE 495/663 - Special Topics in CS
+* **Course:** CSE 495/693 - Special Topics in CS
 * **Schedule:** Monday and Wednesday 3:30 pm - 4:45 pm
 * **Location:** Petty 150
 * **Instructor:** Dr. Somya D. Mohanty
@@ -122,7 +122,7 @@ Class slides and ipython notebooks will be available [here](https://github.com/U
 1.  **Final Project:** 65%
     1.  Project Progress Presentation and Report: 15%
     1.  Project Final Submission Code (Open source GitHub): 20%
-    1.   **Project Class Presentation: ** 15%
+    1.   **Project Class Presentation:** 15%
         1.  Graduate Students (Paper and Presentation) – 7.5% (Presentation) and 7.5% (Paper)
         1.  Undergraduates – 15%
 
