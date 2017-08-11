@@ -123,8 +123,8 @@ Class slides and ipython notebooks will be available [here](https://github.com/U
     1.  Project Progress Presentation and Report: 15%
     1.  Project Final Submission Code (Open source GitHub): 20%
     1.   **Project Class Presentation:** 15%
-        1.  Graduate Students (Paper and Presentation) – 7.5% (Presentation) and 7.5% (Paper)
-        1.  Undergraduates – 15%
+            -  Graduate Students (Paper and Presentation) – 7.5% (Presentation) and 7.5% (Paper)
+            -  Undergraduates – 15%
 
 
 **Total: 100%**
