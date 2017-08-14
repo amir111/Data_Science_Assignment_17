@@ -93,7 +93,7 @@ The core topics addressed by the course will be:
   - Class Presentations
   - Project Paper (Graduate students only)
 
-Class slides and ipython notebooks will be available [here](https://github.com/UNCG-CSE/Data_Science_17).
+Class slides and ipython notebooks will be available [here](https://github.com/UNCG-CSE/Data_Science_17/tree/master/Class_Resources).
 
 
 ## Grading
@@ -145,4 +145,4 @@ Students with disabilities should have documentation from the Office of Accessib
 
 ## Academic Honesty Policy
 
-The instructor will deal strictly with any violations of academic honesty and integrity in this course. See Academic Integrity Policy ([Link](http://sa.uncg.edu/handbook/academic-integrity-policy/)).  for more details. Any student who violates this policy receives zero point for the work and is subject to a reduction of the final grade of this course (up to "F"). The instructor will report the case to the university.
+The instructor will deal strictly with any violations of academic honesty and integrity in this course. See Academic Integrity Policy ([Link](https://osrr.uncg.edu/academic-integrity/)).  for more details. Any student who violates this policy receives zero point for the work and is subject to a reduction of the final grade of this course (up to "F"). The instructor will report the case to the university.
