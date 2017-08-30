@@ -10,6 +10,8 @@
 
 ## Course Description
 
+Testing github
+
 In a world with ever increasing data generated both by humans and machines alike, the field of computer science has seen a transition from computation-intensive solutions to data-intensive ones. Often in such a scenario, solutions to real-world problems can be derived/learned by analyzing disparate, complex and messy datasets using Data Science methods and approaches.
 
 This course is highly interactive, and will explore the theories, techniques, and the tools necessary to gain insights from such datasets. Using a problem-based learning philosophy, students are expected to make use of such technologies to design data solutions that can process and analyze real-world datasets for a variety of scientific, social, and environmental challenges.
