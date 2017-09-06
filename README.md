@@ -199,9 +199,20 @@ Class slides and ipython notebooks will be available [here](https://github.com/U
 * Rishi Khanna
 * Ashley Overman
 * Nathaniel Arnold
-* Amir Sadiev
+* Basheer Eljabady
 
 ***
+
+***
+### CORPUS
+#### Project Title - CORPUS
+#### Members
+* Mukund Nuthi
+* Balaram Remala
+* Pavan Teja Reddy Duggempudi
+
+***
+
 
 
 ## Attendance Policy
