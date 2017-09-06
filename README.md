@@ -135,6 +135,74 @@ Class slides and ipython notebooks will be available [here](https://github.com/U
 
 ## Teams and Projects
 
+***
+### <Most Assuredly Not Copied From Stack>
+#### Project Title - Library-Computer-Usage-Analysis
+#### Members
+* Brown Biggers
+* Michael Ellis
+* Nick Lloyd
+* Patricia Tanzer
+
+***
+
+***
+### SteamConnect
+#### Project Title - SteamConnect
+#### Members
+* Jonathan Mills
+* Michael Burke
+* Geoffrey Blech
+* Amir Sadiev
+
+***
+
+
+***
+### Toxic Crusaders
+#### Project Title - Toxic-Crusaders
+#### Members
+* Swetha Polisetty
+* Aaron Denton
+* Jacob Durham
+* Melvin Watlington
+
+***
+
+
+***
+### Uni-X
+#### Project Title - University X
+#### Members
+* Bin Luo
+* Qi Zhang
+* Ahlam Hakami
+* Austin Lawson
+
+***
+
+***
+### Volag
+#### Project Title - Volag
+#### Members
+* Cory Sabol
+* Alex Hahn
+* Josh Moore
+* Travis Cox
+
+***
+
+***
+### WRF
+#### Project Title - World Refugee Forecast
+#### Members
+* Rishi Khanna
+* Ashley Overman
+* Nathaniel Arnold
+* Amir Sadiev
+
+***
+
 
 ## Attendance Policy
 Attendance is required for all the class meetings and tests. If you will be absent for an exam due to circumstances beyond control, let me know in advance so that we can arrange a make-up test. Students who miss an exam without informing me prior to the exam will receive a 0 on that exam.
